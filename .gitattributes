@@ -1,0 +1,14 @@
+* text=auto eol=crlf encoding=UTF-8
+
+.gitattributes text eol=crlf
+.gitignore text eol=crlf
+
+*.py text eol=crlf
+*.txt text eol=crlf
+*.bat text eol=crlf
+*.sh text eol=lf
+
+*.png -text
+*.jpg -text
+
+*.exe binary
